@@ -11,6 +11,13 @@ body {
 img {
     max-width:200px;
 }
+.warning {
+    color:red;
+    background-color:pink;
+    padding:30px;
+    border-radius:10px;
+    font-weight:bold;
+}
 .circular {
     border-radius:100%;
 }
