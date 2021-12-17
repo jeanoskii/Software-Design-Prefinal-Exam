@@ -26,18 +26,18 @@
         <div class="section center">
             <img class="circular frame" src="images/jasper.png"/>
             <h2>Jasper Dave C. Samonte</h2>
-            <p>CPE STUDENT/Athlete/Musician</p>
+            <p>CPE Student/Player/Otaku</p>
         </div>
         <div class="section center alternate">
-            <img class="circular frame"  src="images/jasper.png"/>
-            <h2>Jasper Dave C. Samonte</h2>
-            <p>YCPE STUDENT/Athlete/Otaku</p>
+            <img class="circular frame"  src="images/default.png"/>
+            <h2>Your Name</h2>
+            <p>Your turn</p>
         </div>
 
         <!-- sample section with inline CSS -->
-        <div class="section center alternate" style="background-color:Black">
-            <img class="circular frame" src="images/jasper.png"/>
-            <h2 style="color:white">Jasper Dave C. Samonte</h2>
+        <div class="section center alternate" style="background-color:indigo">
+            <img class="circular frame" src="images/default.png"/>
+            <h2 style="color:white">Your Name</h2>
             <p style="color:white">This section is an example of using inline CSS.</p>
         </div>
 
