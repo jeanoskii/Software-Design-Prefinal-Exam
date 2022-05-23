@@ -23,13 +23,13 @@ Fork this repo and open index.html to read the full instructions
 	    <div class="section center">
             <img class="frame" src="images/manipula.png"/>
             <h2>Joanna Manipula</h2>
-            <p>Small but terrible</p>
+            <p>SKATER|VLOGGER|FUTURE ENGINEER</p>
         </div>
 	    
 	<div class="section center alternate">
             <img class="frame" src="images/manipula.png"/>
             <h2>Joanna Manipula</h2>
-            <p>Small but terrible</p>
+            <p>SKATER|VLOGGER|FUTURE ENGINEER</p>
         </div>
 
         <!-- do not edit beyond this point -->
