@@ -17,28 +17,14 @@ Fork this repo and open index.html to read the full instructions
             <p>You are only allowed to edit the HTML code and the images folder. Do not edit the CSS and JS code.</p>
             <p>You are allowed to view and use the defined CSS classes, and you are allowed to add inline CSS.</p>
             <p>Once you're done, create a <em>pull request</em> in the GitHub repository. This will allow me to review your edits before pushing it to the main repository.</p>
-            <p>You can reference my entry below:</p>
         </div>
         <div class="section center alternate">
-            <img class="frame" src="images/jeano.jpg"/>
-            <h2>Jeano Ermitaño</h2>
-            <p>Developer/integrator/holder of the keys to this project.</p>
+            <img class="frame" src="images/manipula.jpg"/>
+            <h2>Joanna Manipula</h2>
+            <p>babagsak pero ggraduate si ako kase gusto ko pa yumaman.</p>
         </div>
 
         <!-- make your edits beyond this point -->
-	    
-	<div class="section center">
-            <img class="circular frame" src="images/manipula.png"/>
-            <h2>Joanna Manipula</h2>
-            <p>babagsak pero ggraduate si ako kase gusto ko pa yumaman.</p>
-        </div>
-	    
-	<div class="section center alternate">
-            <img class="frame" src="images/manipula.png"/>
-            <h2>Joanna Manipula</h2>
-            <p>babagsak pero ggraduate si ako kase gusto ko pa yumaman.</p>
-        </div>
-        
 
         <!-- do not edit beyond this point -->
         <div id="footer" class="section">
