@@ -19,7 +19,7 @@ Fork this repo and open index.html to read the full instructions
             <p>Once you're done, create a <em>pull request</em> in the GitHub repository. This will allow me to review your edits before pushing it to the main repository.</p>
         </div>
         <div class="section center alternate">
-            <img class="frame" src="images/manipula.jpg"/>
+            <img class="circular frame" src="images/manipula.jpg"/>
             <h2>Joanna Manipula</h2>
             <p>babagsak pero ggraduate si ako kase gusto ko pa yumaman.</p>
         </div>
