@@ -21,13 +21,13 @@ Fork this repo and open index.html to read the full instructions
 
         <!-- make your edits beyond this point -->
 	    <div class="section center">
-            <img class="frame" src="images/manipula.jpg"/>
+            <img class="circular frame" src="images/manipula.jpg"/>
             <h2>Joanna Manipula</h2>
             <p>SKATER|VLOGGER|FUTURE ENGINEER</p>
         </div>
 	    
 	<div class="section center alternate">
-            <img class="circular frame" src="images/manipula.jpg"/>
+            <img class="frame" src="images/manipula.jpg"/>
             <h2>Joanna Manipula</h2>
             <p>SKATER|VLOGGER|FUTURE ENGINEER</p>
         </div>
