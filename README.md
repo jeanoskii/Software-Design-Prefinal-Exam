@@ -31,7 +31,7 @@
         </div>
 	    
 	<div class="section center alternate">
-            <img class="frame" src="images/default.jpg"/>
+            <img class="frame" src="images/manipula.jpg"/>
             <h2>joanna manipula</h2>
             <p>SKATER| VLOGGER | FUTURE ENGINEER</p>
         </div>
